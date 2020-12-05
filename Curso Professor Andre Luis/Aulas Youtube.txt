@@ -1,0 +1,36 @@
+Espaços L(U,V), Funcionais Lineares e Espaço Dual:
+https://www.youtube.com/watch?v=hSngYAhl0js&t=953s
+
+Autovalores e Autovetores:
+https://www.youtube.com/watch?v=KlTvgbyrrLs&t=2413s
+
+Aula 2 - Autoespaço, Autovetores e Diagonalização:
+https://www.youtube.com/watch?v=NAVOFEAZBgE
+
+Aula 3 Exercícios: Autovalores, Autovetores e Diagonalização:
+https://www.youtube.com/watch?v=CqwJ4p5ySRE
+
+Aula 3 Teoremas de Existência, Da Invariância, Do Completamento e Exercícios:
+https://www.youtube.com/watch?v=ISKcAKVh6kE
+
+Corolario TNI, Isomorfismo e Automorfismo:
+https://www.youtube.com/watch?v=GfparuG_9Xo
+https://www.youtube.com/watch?v=4JwzMsyy_GU
+
+Sistemas de Coordenadas:
+https://www.youtube.com/watch?v=uehvYJ0kvBw
+
+Teorema Nucléo-Imagem:
+https://www.youtube.com/watch?v=nKJL7Zf4HFI&t=336s
+
+Dependencia Linear:
+https://www.youtube.com/watch?v=PiSn78FHtyk
+
+Espaços Vetoriais, Finitamente Gerados:
+https://www.youtube.com/watch?v=Rd14-cQTEW4
+
+Ortonormalização Gram Schmidt:
+https://www.youtube.com/watch?v=Xs_kvMDAyow
+
+Calcular Matriz:
+https://matrixcalc.org/pt/
