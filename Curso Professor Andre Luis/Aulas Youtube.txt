@@ -35,6 +35,9 @@ https://www.youtube.com/watch?v=Xs_kvMDAyow
 Calcular Matriz:
 https://matrixcalc.org/pt/
 
+Calcular raizes de um Polinomio:
+https://pt.symbolab.com/solver/polynomial-calculator
+
 Curso de Algebra Linear - Mestrado:
 https://www.youtube.com/watch?v=-AKi2ZznQ1c&list=PLyOa_UVX3FWQSxni7Cdo68TvxmD7KExbC
 
@@ -42,4 +45,31 @@ Teorema Caley Hamilton:
 
 Polinômio Minimal:
 https://www.youtube.com/watch?v=IoT4SKTzFq8&list=PLyOa_UVX3FWQSxni7Cdo68TvxmD7KExbC&index=23
+
+Espaço Quociente - Introdução:
+https://www.youtube.com/watch?v=_JrNM2Z6mfg&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy
+
+Espaço Quociente, exemplo:
+https://www.youtube.com/watch?v=IufMYWi6YhU&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=2
+
+Base de um espaço quociente:
+https://www.youtube.com/watch?v=Fg-IdkXUpB0&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=4
+
+Teorema Fundamental dos Homomorfismos:
+https://www.youtube.com/watch?v=0I_X1UcYhKI&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=5
+
+Aplicação - Teorema Fundamental dos Homomorfismos:
+https://www.youtube.com/watch?v=ZNARLIlO3Mk&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=6
+
+ Espaços Quocientes - O Segundo Teorema dos Isomorfismos:
+https://www.youtube.com/watch?v=3NtfN4V1-1g&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=7
+
+ Espaços Quocientes - O Terceiro Teorema dos Isomorfismos:
+https://www.youtube.com/watch?v=0Ejd8-AQh8g&list=PLMuDzC6t3U8s4r0DQTWG-SmQTteKVuQRy&index=8
+
+Diagonalização:
+https://www.youtube.com/watch?v=t1EN0ZPWD4c&list=PLMuDzC6t3U8uXcIRPQ4VgLNujiDt-B2EW
+https://www.ime.unicamp.br/~marcia/AlgebraLinear/diag_operadores.html
+
+
 
