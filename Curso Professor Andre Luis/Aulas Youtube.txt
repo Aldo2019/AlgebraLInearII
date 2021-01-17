@@ -71,5 +71,53 @@ Diagonalização:
 https://www.youtube.com/watch?v=t1EN0ZPWD4c&list=PLMuDzC6t3U8uXcIRPQ4VgLNujiDt-B2EW
 https://www.ime.unicamp.br/~marcia/AlgebraLinear/diag_operadores.html
 
+Prova 2:
 
+Demonstração da Desigualdade de Cauchy-Schwarz:
+https://www.youtube.com/watch?v=aXeDKck9vxA
+https://www.youtube.com/watch?v=DNMhweQ_O4Y
+
+Tipos de Produtos e Produto Escalar:
+https://www.youtube.com/watch?v=GfC_-_no7Ak
+
+Espaços vetoriais com produtos internos: Coeficientes de Courrier, Gram-Schmidt,  
+https://www.youtube.com/watch?v=0D-8NoSYPPk
+
+Produto Interno e Ortogonalidade: muito bom - Teorema de Gram-Schmidt - 22minutos
+https://www.youtube.com/watch?v=cUYMLvpCoZY
+
+Processo de Gram-Schmidt:
+https://www.youtube.com/watch?v=U-lwC92ip7c
+https://www.youtube.com/watch?v=0zBe3oQAuwI
+https://www.youtube.com/watch?v=aOQHHa-C88Q
+https://www.youtube.com/watch?v=7VC4stu-CgQ
+https://www.youtube.com/watch?v=prFi9vXx7Ts
+https://www.youtube.com/watch?v=ISqp7csQ_dk
+https://www.youtube.com/watch?v=0zBe3oQAuwI
+
+Cônicas e Quádricas, Formas Bilineares e Matriz Associada:
+https://www.youtube.com/watch?v=aWbZ3A4cros
+
+Formas Quadráticas:
+https://www.youtube.com/watch?v=RJNrxEoXNl8
+
+Reconhecimento de Formas Quadráticas (Por Autovetores):
+https://www.youtube.com/watch?v=Ndk_u-Dxe_o
+
+Projeção Ortogonal entre vetores:
+https://www.youtube.com/watch?v=E2ULYsABr2Q
+https://www.youtube.com/watch?v=HiTzWT8Apd0
+https://www.youtube.com/watch?v=5lUJ9PDe5ok
+
+Operadores Autoadjuntos e Ortogonais - Exemplo
+https://www.youtube.com/watch?v=YolW0sa-DwU
+
+Operadores Autoadjuntos
+https://www.youtube.com/watch?v=tTREuIoQ4Nw
+
+Complemento Ortogonal:
+https://www.youtube.com/watch?v=yRP9CVwTwVA&t=4s
+
+Aula 44 Introdução aos produtos internos - Seguir a partir da aula 43 - aulas em seguencia;
+https://www.youtube.com/watch?v=yFirr_EpAnY&list=PLyOa_UVX3FWQSxni7Cdo68TvxmD7KExbC&index=44
 
