@@ -132,3 +132,15 @@ https://www.youtube.com/watch?v=tTREuIoQ4Nw
 Exercício de Ortonormalização no Espaço dos Polinômios:
 https://www.youtube.com/watch?v=pAj2WRlEdKE
 
+Demonstração que a integral da multiplicação define Produto interno no espaço das funções:
+https://www.youtube.com/watch?v=10tLMwOvu1A
+
+Teorema de Representação de Riesz - Exemplo em espaço de polinômios:
+https://www.youtube.com/watch?v=TrD1IeHYNt8&list=PL7PW7YXa8HO3vata0DUsMPrzgOuXvoDSI&index=53
+
+Norma de um Vetor e Norma de uma Matriz
+https://www.youtube.com/watch?v=ly6-59DJXQc
+https://www.youtube.com/watch?v=G2wVMYw7yDM
+
+Formas bilineares - exercício
+https://www.youtube.com/watch?v=akribNHTRiY
