@@ -18,3 +18,6 @@ https://www.youtube.com/watch?v=NaI_PsLFGUw
 
 Teorema Espectral para Matrizes Simétricas - Caso real:
 https://www.youtube.com/watch?v=hlQdhZdgb3k
+
+Cauchy-Schwarz Inequality in Z-modules:
+https://math.stackexchange.com/questions/131907/cauchy-schwarz-inequality-in-mathbbz-modules?rq=1
